@@ -1,7 +1,0 @@
-prefix=D:/Projects/new/graphics/OpenGL_Boilerplate/out/install/x64-Debug
-includedir=${prefix}/include
-
-Name: GLM
-Description: OpenGL Mathematics
-Version: 0.9.8
-Cflags: -I${includedir}
