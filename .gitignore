@@ -33,6 +33,7 @@
 
 # Ignore build artifacts
 /build
+/out
 /bin/
 CMakeFiles/
 cmake-build-debug/
